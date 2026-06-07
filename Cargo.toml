@@ -1,0 +1,11 @@
+[package]
+name = "graph-centrality"
+version = "0.1.0"
+edition = "2021"
+description = "Graph centrality measures: betweenness, closeness, eigenvector, PageRank, Katz, degree centrality"
+license = "MIT"
+repository = "https://github.com/SuperInstance/graph-centrality"
+keywords = ["graph", "centrality", "pagerank", "betweenness", "algorithms"]
+categories = ["algorithms", "mathematics", "science"]
+
+[dependencies]
